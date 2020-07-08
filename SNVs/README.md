@@ -1,0 +1,1 @@
+Region table for chromosome 16 and SNV positions for the same region. 

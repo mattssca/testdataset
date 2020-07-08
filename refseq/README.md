@@ -1,0 +1,1 @@
+Reference sequence for Chr16 (GRCh38) both as .fasta and bowtie2 formatted index.
